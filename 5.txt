@@ -1,0 +1,3 @@
+Processo A B C D
+Tempo 9 4 8 5
+Chegada 0 1 2 3
